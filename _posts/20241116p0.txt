@@ -1,0 +1,51 @@
+# it0
+
+title: Hello to all of myself
+
+I'm Miguel, an introvert, a curiouser, a thinker, a developer, a systems architect, a Cosmere fan, a person as everyone else. In the last couple of years I've been in a frozen state in all facets of my life, just existing an not so much living. I know deep down part of it has been driven by fear, fear of the change, the pain, a probably by more things.
+
+You see, I'm a Venezuelan whose emigrates to Spain at 2021 (just after the pandemic) looking for a better way of living and in some ways I really think that I'm better, mostly because now, I'm confortable with what I'm around of, but due to be afraid of the people, little by little I began to detach of social conections. Couple of year later of ignoring that or by just existing and nothing more, now I'm understanting the consecuenses of not act over it. My partner, my closests friend tried to help me and i didnt let them.
+
+Now, finally I took the first step. With some regret due to the time lost and the scars I did, but also, with a lot of hope and love for all my closest connections and above all, myself. This journey begins a new chapter in my life, with a lot of fear but also with a lot of exciment to see how is going to be this growing process.
+
+# it1
+
+title: Hello to all of myself
+
+I'm Miguel—an introvert, a curious about how everything works, a thinker, a developer, a systems architect, a Cosmere fan, anime/manga fan, and, like everyone else, just a person figuring things out. Over the last couple of years, I've found myself stuck in a sort of frozen state, merely existing rather than truly living. Deep down, I know part of this has been driven by fear—fear of change, fear of pain, and probably more fears I have yet to identify.
+
+To give some context, I'm a Venezuelan who emigrated to Spain in 2021, right after the pandemic, seeking a better life. In many ways, I have found that better life. I feel more comfortable with my surroundings, but over time, I allowed fear of people and social interactions to creep in. Little by little, I started to withdraw, detaching myself from meaningful social connections. A couple of years later, merely existing and ignoring the concerns of my partner and closest friends, I’m finally starting to understand the consequences of not addressing it earlier.
+
+Now, I’ve taken the first step. There’s some regret for the time lost and for the scars I’ve left behind, but there’s also a lot of hope. I have love for my closest connections and, most importantly, for myself. This marks the beginning of a new chapter in my life—one filled with fear, yes, but also with excitement for the growth that lies ahead.
+
+Here’s to the journey.
+
+title: That was a heavy for a hello, let me share more about myself
+
+I dont want this first post to be all about the bad things im on, so, what i do for fun or for living. Well, I´m a software engineer (shocking right?) borned at 2018 in the Universidad de Los Andes  located at Mérida, Venezuela. I'm always has been a silent person with people i dont have confident with but once i suprass that barrier i'm very clumsy and more talktative. One advantage of being as i am is that i'm a very good listener and very supportive. What else? I watch a lot of YouTube, always learning new stuff about tech or comentaries about videogames, books, anime and manga. I love videogames where i have to think hard on solving complex issues as in satisfactory but also like roguelikes a lot like the binding of isaac.
+
+Back in venezuela I really loved to go to the mountains, feel the cold and the calmness. This is one of the thing I want to recover back. I like to go out and eat/drink chilling, very once in a very long while I like to party, more because I like to watch those who I like to enjoy. I love to drive out of the city and to know new places, not really in a traveler mode, I have to be constantly taking planes haha
+
+And professionaly, as i said before, i'm a software engineer. What i love about my profession is that i'm always learning new things and if the job let me, a really like to try new things. I'm maniac with docker and python, not that much to called myselft the best (stocolm syndrime present i guess) but I know that i'm very good at it. Because all this, my manager has to containt me a little because i'm always trying to improve the workplace with new ways to develop or new tools for the team to try and adopt new ways of doing things to enhance the development experience. In a nutshell, I consider myself a great team supporter. I'm been told I'm a good mentor too hehe.
+
+Now is a little balanced, right? I'll be using this space to dump how i'm progressing in the inner self and giving opinions about life, also taking notes for myself to share knowledge about the programming world.
+
+Drink water!
+
+# it2
+
+second part only
+
+Title: That Was a Heavy Hello—Let Me Share More About Myself
+
+I don’t want this first post to be all about the tough things I’m going through, so let me tell you more about what I do for fun or for a living. Well, I’m a software engineer (shocking, right?) who graduated in 2018 from the Universidad de Los Andes in Mérida, Venezuela. I’ve always been a quiet person with people I’m not confident around, but once I get past that barrier, I can be quite clumsy and much more talkative. One advantage of being the way I am is that I’m a great listener and very supportive.
+
+What else? I watch a lot of YouTube, always learning new things about tech or watching commentary on video games, books, anime, and manga. I love video games that challenge me to solve complex problems, like Satisfactory, but I also really enjoy roguelikes like The Binding of Isaac.
+
+Back in Venezuela, I loved going to the mountains to feel the cold and the calmness. This is something I want to bring back into my life. I enjoy going out to eat or drink and just chilling. Once in a very long while, I like to party—not so much for myself but because I love seeing my favorite people enjoy themselves. I also love driving out of the city and discovering new places, though I wouldn’t call myself a traveler. I’m not the type to constantly hop on planes, haha.
+
+Professionally, as I mentioned before, I’m a software engineer. What I love most about my profession is that I’m constantly learning new things. When the job allows it, I love experimenting with new technologies. I’m a bit obsessed with Docker and Python—not enough to call myself the best (hello, imposter syndrome!)—but I know I’m very skilled. My enthusiasm sometimes means my manager has to rein me in because I’m always trying to improve the workplace with new tools or processes to enhance the development experience. In short, I consider myself a strong team supporter, and I’ve been told I’m a good mentor too—hehe.
+
+Now it feels a little more balanced, right? I’ll be using this space to document my progress on my inner journey, share opinions about life, and take notes for myself while sharing knowledge about the programming world.
+
+Drink water!
