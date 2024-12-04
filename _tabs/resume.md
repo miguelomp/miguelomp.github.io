@@ -23,7 +23,7 @@ order: 4
 {: .mt-4 .mb-0 }
 ### [**Kukun**](https://www.linkedin.com/company/kukun) - Remote
 {: .mt-4 .mb-0 }
-#### DevOps Engineer, *2021 - Present*
+#### SRE Engineer, *2021 - Present*
 {: .mt-4 .mb-0 }
 Manage and scale containerized applications, ensuring seamless integration across diverse systems. Lead automation initiatives using the Airflow framework for efficient tool and service orchestration. Focus on optimizing data processing workflows through open-source projects and microservices.
 #### Lead Systems Engineer, *2019 - Present*
